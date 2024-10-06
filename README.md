@@ -1,6 +1,6 @@
 # Meu Portfólio
 
-Meu nome é Gabriel e esse é um projeto de portfólio pessoal criado usando **Vite** como o bundler, **React** para a interface do usuário, **Tailwind CSS** para estilização e **React Router** para navegação entre páginas. O objetivo deste portfólio é fornecer uma plataforma para exibir meus projetos, compartilhar informações sobre mim e fornecer formas de contato.
+Meu nome é Gabriel e esse é um projeto de portfólio pessoal criado usando **Vite** , **React** para a interface do usuário, **Tailwind CSS** para estilização e **React Router** para navegação entre páginas. O objetivo deste portfólio é fornecer uma plataforma para exibir meus projetos, compartilhar informações sobre mim e fornecer formas de contato.
 
 ## Descrição do Projeto
 
