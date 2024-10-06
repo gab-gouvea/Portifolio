@@ -3,7 +3,7 @@ import { NavLink } from "react-router-dom";
 export function Footer() {
   return (
     <>
-      <div className="h-48 bg-green-700 flex justify-around items-center">
+      <div className="h-36 bg-green-700 flex justify-around items-center">
         <div className="flex gap-6">
           <NavLink to="https://www.instagram.com/gab.gmo/" target="_blank">
             <i class="fa-brands fa-instagram fa-2xl"></i>
