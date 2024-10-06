@@ -22,7 +22,7 @@
   },
   {
     "nome": "Melodia - Seu Companheiro Musical Definitivo",
-    "desc": "O Melodia é um protótipo de aplicativo de streaming de música, desenvolvido como parte de um projeto acadêmico.",
+    "desc": "O Melodia é um protótipo de aplicativo de streaming de música, desenvolvido como parte de um projeto acadêmico. O foco do protótipo é entregar uma experiência sonora premium, com funcionalidades que incluem criação de playlists personalizadas, descoberta de novos artistas e uma interface moderna e intuitiva.",
     "tecs": [ "Bootstrap","SCSS","HTML","JavaScript"],
     "page": "https://miguelkapicius.github.io/CP05-Front/",
     "repo": "https://github.com/miguelkapicius/CP05-Front"
