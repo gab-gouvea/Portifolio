@@ -1,0 +1,30 @@
+[
+  {
+    "nome": "Global Solution Blue Future | Landing Page",
+    "desc": "O projeto visa criar uma plataforma integrada para monitoramento da qualidade da água, tanto no mar aberto quanto regiões costeiras de comunidades dependente da pesca.",
+    "tecs": [ "Arduino", "HTML", "CSS", "JavaScript"],
+    "page": "https://gab-gouvea.github.io/GS-LANDINGPAGE/",
+    "repo": "https://github.com/gab-gouvea/GS-LANDINGPAGE"
+  },
+  {
+    "nome": "E-Pit",
+    "desc": "Projeto proposto pela Tech Mahindra em parceria com a FIAP em 2024, o projeto consiste em uma plataforma contendo um jogo fantasy baseado na Formula E, estatísticas sobre pilotos e equipes.",
+    "tecs": [ "JavaScript","React","Vite","Tailwind","Node","MongoDB","Express"],
+    "page": "https://mahindra-challenge-2024.vercel.app/login",
+    "repo": "https://github.com/miguelkapicius/Mahindra_Challenge_2024"
+  },
+  {
+    "nome": "E-pit | Landing Page",
+    "desc": "Landing page do projeto desenvolvido com Tech Mahindra e FIAP em 2024, oferecendo uma plataforma de jogo fantasy da Fórmula E com estatísticas atualizadas de pilotos e equipes, criando uma experiência envolvente para fãs do esporte.",
+    "tecs": [ "JavaScript","React","Vite","CSS","Node"],
+    "page": "https://landingpage-challenge.vercel.app/",
+    "repo": "https://github.com/gab-gouvea/LANDINGPAGE-CHALLENGE"
+  },
+  {
+    "nome": "Melodia - Seu Companheiro Musical Definitivo",
+    "desc": "O Melodia é um protótipo de aplicativo de streaming de música, desenvolvido como parte de um projeto acadêmico.",
+    "tecs": [ "Bootstrap","SCSS","HTML","JavaScript"],
+    "page": "https://miguelkapicius.github.io/CP05-Front/",
+    "repo": "https://github.com/miguelkapicius/CP05-Front"
+  }
+]
