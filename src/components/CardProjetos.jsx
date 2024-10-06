@@ -13,7 +13,7 @@ export function CardProjetos() {
 
   return (
     <>
-      <div className="h-screen space-y-6 ">
+      <div className="space-y-6 ">
         {projetos.map((i) => (
           <div className="flex border border-green-700 rounded-lg flex-col p-5 space-y-4 max-w-5xl mx-auto">
             <h2 className="font-bold text-2xl">{i.nome}</h2>
