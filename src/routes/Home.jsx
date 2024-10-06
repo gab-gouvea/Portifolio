@@ -1,3 +1,5 @@
+import { Footer } from "../components/Footer";
+
 export function Home() {
   return (
     <>
@@ -11,6 +13,7 @@ export function Home() {
         Explore meus projetos e vamos transformar ideias em realidade juntos!
         </p>
       </section>
+      <Footer/>
     </>
   );
 }

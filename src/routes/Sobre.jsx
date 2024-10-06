@@ -1,4 +1,5 @@
 import eu from "../assets/imgs/eu.png";
+import { Footer } from "../components/Footer";
 
 export function Sobre() {
   return (
@@ -43,6 +44,7 @@ export function Sobre() {
           </div>
         </div>
       </div>
+      <Footer/>
     </>
   );
 }
