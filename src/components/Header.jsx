@@ -15,6 +15,9 @@ export function Header() {
             <li>
               <Button nome="Projetos" href="/projetos" />{" "}
             </li>
+            <li>
+              <Button nome="Contato" href="/contato" />
+            </li>
           </ul>
         </nav>
       </header>
