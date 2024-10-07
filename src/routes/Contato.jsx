@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Footer } from '../components/Footer';
 
-const Contato= () => {
+export function Contato() {
   const [formData, setFormData] = useState({
     name: '',
     email: '',
@@ -18,7 +18,7 @@ const Contato= () => {
   const handleSubmit = (e) => {
     e.preventDefault();
     console.log("Informações do formulário:", formData);
-    // Aqui você pode adicionar lógica para enviar os dados, como uma requisição a uma API
+    
   };
 
   return (
@@ -78,4 +78,4 @@ const Contato= () => {
   );
 };
 
-export default Contato;
+
