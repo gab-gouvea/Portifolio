@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Footer } from '../components/Footer';
 
-export function Contato() {
+export default function Contato() {
   const [formData, setFormData] = useState({
     name: '',
     email: '',

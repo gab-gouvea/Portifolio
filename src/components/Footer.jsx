@@ -19,8 +19,8 @@ export function Footer() {
           </NavLink>
         </div>
         <div className="flex flex-col">
-          <span>tel: (11)97700-7150</span>
-          <span>email: oliveirag396@gmail.com</span>
+          <span>tel: (11) 97700-7150</span>
+          <span>email: gabgouveaa@gmail.com</span>
         </div>
       </div>
     </>

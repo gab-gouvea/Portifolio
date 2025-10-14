@@ -15,9 +15,7 @@ export function Sobre() {
               tenho 21 anos.
             </p>
             <p>
-              Sou estudante de engenharia de software, tenho conhecimento nas
-              seguintes tecnologias: HTML, CSS, Tailwind, JavaScript, React,
-              Vite, Git, GitHub, entre outras...
+            Sou estudante de Engenharia de Software e tenho me especializado em desenvolvimento backend e full stack. Tenho experiência com Java, Spring Boot, .NET, C#, Python, TypeScript e Node.js, além de trabalhar com Docker, MySQL, PostgreSQL e versionamento com Git e GitHub. Também já desenvolvi aplicações com React, Tailwind e Vite no frontend, sempre buscando entender como cada parte se conecta no todo.
             </p>
             <p>
               Estou sempre motivado a aprender sobre tecnologia e crescer,
