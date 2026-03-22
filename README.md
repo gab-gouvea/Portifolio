@@ -1,27 +1,42 @@
-# Meu Portfólio
+# Gabriel Gouvea | Portfolio
 
-Meu nome é Gabriel e esse é um projeto de portfólio pessoal criado usando **Vite** , **React** para a interface do usuário, **Tailwind CSS** para estilização e **React Router** para navegação entre páginas. O objetivo deste portfólio é fornecer uma plataforma para exibir meus projetos, compartilhar informações sobre mim e fornecer formas de contato.
+Portfolio pessoal desenvolvido com React, Tailwind CSS e Framer Motion.
 
-## Descrição do Projeto
+**[Ver online](https://seu-site.vercel.app)**
 
-Este portfólio simples e moderno permite aos visitantes explorar minhas informações pessoais, os projetos em que trabalhei e como entrar em contato comigo. A estrutura do projeto é modular e organizada em componentes React reutilizáveis, facilitando a manutenção e expansão do portfólio no futuro.
+## Stack
 
-### Funcionalidades Principais
+- **React 18** + **Vite 5**
+- **Tailwind CSS 3** com CSS Variables (dark/light mode)
+- **Framer Motion** para animacoes
+- **Lucide React** para icones
 
-- **Página Inicial**: Breve introdução ao portfólio.
-- **Sobre Mim**: Informações sobre a minha carreira e habilidades.
-- **Projetos**: Lista de projetos em que trabalhei, com descrições.
-- **Contato**: Informações de contato para que os visitantes possam se conectar comigo.
+## Funcionalidades
 
-## Tecnologias Utilizadas
+- Single-page com scroll suave e navegacao por secoes
+- Animacoes de entrada ao scroll (fade-in, slide, stagger)
+- Dark/Light mode com persistencia no localStorage
+- Header glass-morphism com indicador de secao ativa
+- Responsivo (mobile, tablet, desktop)
+- Download de curriculo em PDF
+- Links diretos de contato (Email, WhatsApp, LinkedIn, GitHub)
 
-Este projeto foi construído com as seguintes tecnologias e bibliotecas:
+## Secoes
 
-### Framework e Ferramentas de Desenvolvimento
+- **Hero** - Apresentacao com CTAs e objetivo profissional
+- **Sobre** - Bio, formacao academica, experiencia e skills
+- **Projetos** - Cards com links para projetos e repositorios
+- **Contato** - Botoes diretos para canais de comunicacao
 
-- **Vite**: Uma ferramenta de build rápida e leve para projetos front-end modernos.
-- **React**: Uma biblioteca JavaScript para criar interfaces de usuário.
-- **React Router**: Biblioteca para implementar navegação em páginas.
-- **Tailwind CSS**: Um framework de CSS utilitário que facilita a criação de interfaces responsivas e customizáveis.
+## Rodando localmente
 
+```bash
+npm install
+npm run dev
+```
 
+## Build
+
+```bash
+npm run build
+```
