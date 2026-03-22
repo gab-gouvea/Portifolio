@@ -46,11 +46,11 @@ export function AboutSection() {
             <p className="text-muted text-lg leading-relaxed">
               Estudo{" "}
               <span className="text-texts font-medium">Engenharia de Software na FIAP</span>.
-              Meu foco é desenvolvimento backend — gosto de entender como as coisas funcionam por baixo
-              dos panos, desde a lógica da API até o banco de dados.
+              Meu foco é desenvolvimento backend, gosto de entender como as coisas funcionam
+              em cada camada, desde a lógica da API até o banco de dados.
             </p>
             <p className="text-muted text-lg leading-relaxed">
-              Também transito pelo frontend quando o projeto pede, e curto a ideia de
+              Também transito pelo frontend quando o projeto pede, e tenho interesse em
               construir aplicações completas do zero. Estou sempre buscando{" "}
               <span className="text-accent font-medium">
                 minha primeira oportunidade na área de desenvolvimento.
