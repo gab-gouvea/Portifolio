@@ -51,7 +51,7 @@ export function AboutSection() {
             </p>
             <p className="text-muted text-lg leading-relaxed">
               Também transito pelo frontend quando o projeto pede, e tenho interesse em
-              construir aplicações completas do zero. Estou sempre buscando{" "}
+              construir aplicações completas do zero. Estou buscando{" "}
               <span className="text-accent font-medium">
                 minha primeira oportunidade na área de desenvolvimento.
               </span>
